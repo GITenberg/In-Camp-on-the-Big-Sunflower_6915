@@ -1,4 +1,8 @@
 _repo: In-Camp-on-the-Big-Sunflower_6915
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Leslie, Lawrence J.
@@ -10,6 +14,8 @@ description: '""Hey, Bandy-legs, what d''ye suppose ails Toby there? "" ""He sur
   of fresh-water clams. So we''ll just have to run things ourselves, Bandy. Hello!
   there, Toby, what under the sun are you staring at? "" and the boy called Steve
   jumped to his feet as he called out. ""'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6915#In-Camp-on-the-Big-Sunflower
 gutenberg_issued: '2004-11-01'
 gutenberg_type: Text
 identifiers:
